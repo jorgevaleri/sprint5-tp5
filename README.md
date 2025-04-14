@@ -76,7 +76,7 @@ La aplicación consume una API REST creada en **MockAPI** para gestionar los lib
 
 📌 Instalación y Uso
   1️⃣ Clona el repositorio:
-    git clone https://github.com/jorgevaleri/sprint4-Tp4.git **MODIFICAR**
+    git clone https://github.com/jorgevaleri/sprint5-tp5
   2️⃣ Instala las dependencias:
     npm install
   4️⃣ Inicia la aplicación:
